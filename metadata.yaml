@@ -1,0 +1,5 @@
+homepage: "https://converly.io"
+documentation: "https://converly.io/gtm-templates/wpforms"
+versions:
+  - sha: f07125cc678b6f5f6d36df25eb98d7b75d059478
+    changeNotes: First release.
